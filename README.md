@@ -7,17 +7,18 @@
 - 集成进度条缩略图预览：[Thumbfast](https://github.com/po5/thumbfast)
 - 集成漂亮的 UI 无边框设计：[Samillion/ModernZ]、[tomasklaen/uosc]
 - 快捷键优化 `Ctrl + i` 查看和设置所有快捷键
-- 支持全网弹幕加载（仅主题皮肤 2），插件:Tony15246/uosc_danmaku
+- 支持全网弹幕加载（仅主题皮肤 `uosc`支持），集成插件：[Tony15246/uosc_danmaku]
+- 只需两个步骤即可完成享用
 
 ## 使用方法
 
-- 先安装 mpv.net 播放器：[https://github.com/mpvnet-player/mpv.net/releases](https://github.com/mpvnet-player/mpv.net/releases)
-- [🎯 点击下载](https://github.com/akFace/mpv.net.config/releases) 你想要的主题皮肤（已包含配置）`modernz`和`uosc`，并解压
+- 先安装 mpv.net 播放器,下载地址：[https://github.com/mpvnet-player/mpv.net/releases](https://github.com/mpvnet-player/mpv.net/releases)
+- [🎯 点击下载](https://github.com/akFace/mpv.net.config/releases) 你想要的主题皮肤（每个都已包含配置）`modernz`和`uosc`，并解压
 - 如图所示，右键>配置>打开配置文件夹或者`Ctrl + f`快捷键打开配置文件夹
 
   ![image](https://raw.githubusercontent.com/akFace/mpv.net.config/master/preview/Snipaste_2026-03-16_20-34-06.jpg)
 
-- 将不同的主题和配置文件全部复制到配置文件夹(只能共存一个主题配置)，重启播放器即可
+- 将解压出的全部复制到配置文件夹(只能共存一个主题配置)，重启播放器即可
 - 注意目录结构
 
 ```
