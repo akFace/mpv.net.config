@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
+    <ShowMenuFixApplied>true</ShowMenuFixApplied>
+    <MenuUpdateVersion>0</MenuUpdateVersion>
+    <Volume>55</Volume>
+    <RecentFiles>
+        <string>E:\迅雷下载\斗破\176.mkv</string>
+        <string>E:\迅雷下载\斗破\175.mkv</string>
+        <string>E:\迅雷下载\斗破\173.mkv</string>
+        <string>E:\迅雷下载\灵武大陆\161.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\160.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\159.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\158.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\157.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\154.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\151.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\147.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\145.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\156.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\155.mp4</string>
+        <string>E:\迅雷下载\灵武大陆\153.mp4</string>
+    </RecentFiles>
+    <WindowLocation>
+        <X>0</X>
+        <Y>0</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>1908</X>
+        <Y>1022</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>3009</Width>
+        <Height>1260</Height>
+    </WindowSize>
+    <AudioDevice />
+    <ConfigEditorSearch>Window:</ConfigEditorSearch>
+    <Mute>no</Mute>
+    <StartupFolder />
+</AppSettings>
