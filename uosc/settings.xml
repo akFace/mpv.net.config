@@ -3,8 +3,14 @@
     <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
     <ShowMenuFixApplied>true</ShowMenuFixApplied>
     <MenuUpdateVersion>0</MenuUpdateVersion>
-    <Volume>55</Volume>
+    <Volume>84</Volume>
     <RecentFiles>
+        <string>E:\迅雷下载\斗破\182.mkv</string>
+        <string>E:\迅雷下载\斗破\181.mkv</string>
+        <string>E:\迅雷下载\斗破\180.mkv</string>
+        <string>E:\迅雷下载\斗破\179.mkv</string>
+        <string>E:\迅雷下载\斗破\178.mkv</string>
+        <string>E:\迅雷下载\斗破\177.mkv</string>
         <string>E:\迅雷下载\斗破\176.mkv</string>
         <string>E:\迅雷下载\斗破\175.mkv</string>
         <string>E:\迅雷下载\斗破\173.mkv</string>
@@ -14,20 +20,14 @@
         <string>E:\迅雷下载\灵武大陆\158.mp4</string>
         <string>E:\迅雷下载\灵武大陆\157.mp4</string>
         <string>E:\迅雷下载\灵武大陆\154.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\151.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\147.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\145.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\156.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\155.mp4</string>
-        <string>E:\迅雷下载\灵武大陆\153.mp4</string>
     </RecentFiles>
     <WindowLocation>
         <X>0</X>
         <Y>0</Y>
     </WindowLocation>
     <WindowPosition>
-        <X>1908</X>
-        <Y>1022</Y>
+        <X>1933</X>
+        <Y>1107</Y>
     </WindowPosition>
     <WindowSize>
         <Width>3009</Width>
