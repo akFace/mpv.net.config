@@ -7,8 +7,8 @@
 - 集成进度条缩略图预览：[Thumbfast](https://github.com/po5/thumbfast)
 - 集成漂亮的 UI 无边框设计：[Samillion/ModernZ]、[tomasklaen/uosc]
 - 集成在线中文字幕搜素-搜索快捷键：`Alt + f`：[dyphire/mpv-sub-assrt]
-- 支持全网弹幕加载，仅主题皮肤 `uosc`支持），集成插件：[Tony15246/uosc_danmaku]
-- 快捷键优化 `Ctrl + i` 查看和设置所有快捷键
+- 支持全网弹幕加载，集成插件：[Tony15246/uosc_danmaku]
+- 快捷键优化
 - 超简单，只需两个步骤即可完成享用
 
 ## 使用方法
@@ -35,6 +35,19 @@
 
 - 若你使用的并非 mpv.net 播放器，请修改`script-opts/thumbfast.conf`目录中的`mpv_path=mpvnet`改为`mpv_path=mpv`或者播放器安装目录可执行文件 例如：`mpv_path=C:\Program Files\mpv.net\mpvnet.exe`
 
+## 快捷键
+
+`Alt + f` 搜索字幕  
+`Ctrl+d` 搜索弹幕  
+`d` 显示/隐藏弹幕  
+`Alt+d` 打开弹幕总开关菜单  
+`Alt+z` 显示/隐藏 OSD（右上角信息：包括视频时间进度、系统时间）  
+`Ctrl + i` 查看和设置所有快捷键
+
+- 其他快捷键请看这里：[快捷键大全](https://zhuanlan.zhihu.com/p/533804122)
+- 弹幕默认样式在配置文件夹`script-opts/uosc_danmaku.conf`下，要修改请使用文本编辑器打开编辑
+- 注：`modernz`主题的弹幕插件没有界面 UI，只能通过快捷键来使用
+
 ## 预览效果图：
 
 ### 主题皮肤 1（modernz）
@@ -44,5 +57,3 @@
 ### 主题皮肤 2（uosc）
 
 ![image](https://raw.githubusercontent.com/akFace/mpv.net.config/master/preview/Snipaste_2026-03-18_16-51-00.jpg)
-
-- 弹幕默认样式在配置文件夹`script-opts/uosc_danmaku.conf`下
