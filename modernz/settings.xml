@@ -3,8 +3,9 @@
     <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
     <ShowMenuFixApplied>true</ShowMenuFixApplied>
     <MenuUpdateVersion>0</MenuUpdateVersion>
-    <Volume>75</Volume>
+    <Volume>59</Volume>
     <RecentFiles>
+        <string>E:\迅雷下载\遮天\140 4K.mp4</string>
         <string>E:\迅雷下载\万界独尊\463 4K.mkv</string>
         <string>E:\迅雷下载\万界独尊\459 4K.mkv</string>
         <string>E:\迅雷下载\万界独尊\462 4K.mkv</string>
@@ -16,16 +17,16 @@
         <string>E:\迅雷下载\万界独尊\455 4K.mkv</string>
     </RecentFiles>
     <WindowLocation>
-        <X>0</X>
+        <X>1</X>
         <Y>0</Y>
     </WindowLocation>
     <WindowPosition>
-        <X>1909</X>
-        <Y>1022</Y>
+        <X>3503</X>
+        <Y>1155</Y>
     </WindowPosition>
     <WindowSize>
-        <Width>1867</Width>
-        <Height>1050</Height>
+        <Width>2240</Width>
+        <Height>1260</Height>
     </WindowSize>
     <AudioDevice />
     <ConfigEditorSearch>Video:</ConfigEditorSearch>
